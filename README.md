@@ -1,4 +1,10 @@
-## Hi there 👋
+# Meu Aplicativo Pessoal
+Este é um aplicativo de uso estritamente pessoal integrado com as APIs do Google.
+
+## Política de Privacidade
+Este aplicativo não coleta, não armazena e não compartilha nenhum dado de terceiros. 
+Todos os dados acessados são utilizados exclusivamente para fins de automação pessoal do proprietário.
+
 
 <!--
 **SistemaOS2026/SistemaOS2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
